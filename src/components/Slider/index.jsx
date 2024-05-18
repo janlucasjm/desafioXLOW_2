@@ -24,15 +24,14 @@ const Slider = ({ images }) => {
     const interval = setInterval(sliderNext, 3000)
 
     return () => clearInterval(interval)
-  }, [current, images.length])
+  })
 
   return (
     <div className={style.slider}>
       <div className={style.sliderContent}>
           {images.map((result, index) => (
-            <a href={result.link} target='_blank'>
+            <a key={`${index}-image`}  href={result.link} target='_blank'>
               <img 
-              key={index} 
               src={result.url} 
               className={`${style.sliderImage} ${index === current ? style.active  : ''}`}
               alt={result.alt}
