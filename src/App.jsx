@@ -3,17 +3,17 @@ import Slider from "./components/Slider"
 function App() {
   const images = [
     {
-      url: 'https://pixabay.com/get/gac4a0c33f378a213fc8220fb5468ac07b3d4005f42b91796c44aa465be2d8047bb5f0cb8482ee543883904e9ab6e16aa.jpg',
+      url: 'https://pixabay.com/get/g81de16c6a85b2e1aff53e9a37b6d7e0967204553703700a7fe3fe8274ba8a6a7dc912942a0fcec60b893020d4e5501c7.jpg',
       alt: 'Foto de uma paisagem com montanhas e uma casa em frente ao lago',
       link: 'https://pixabay.com/pt/photos/lago-montanhas-névoa-panorama-7624330/'
     },
     {
-      url: 'https://pixabay.com/get/gaf1cc02fc441c0871a13a8182ba8f5ea8e4cb01c5194a7a12e9543b2749d798f1cc763bb8458d5bfb1bcb864a0ef5fa4.jpg',
+      url: 'https://pixabay.com/get/g35368c7fcbdea0007854721b53743c5316a087adbccbe43ca2f6d63f4fde366ede39f14a6cc969eaf107b2e655d18dc0.jpg',
       alt: 'Foto de uma floresta',
       link: 'https://pixabay.com/pt/photos/floresta-arvores-raios-de-sol-1072828/'
     },
     {
-      url: 'https://pixabay.com/get/gdefe5ae162b9857209173280ee6fcce1fbadc2a4ffafc7e8dafe7bedac5e2fe8781771c6cad7db092a17ecf7ef632955.jpg',
+      url: 'https://pixabay.com/get/g0c63592fa65563938a436df216ad219bda49e96eb1b9b965714af521782a47f4b9a3e8dd1d534a5ddea383006f97f7b7.jpg',
       alt: 'Foto de uma praia',
       link: 'https://pixabay.com/pt/photos/maldivas-trópicos-tropical-1993704/'
     },
