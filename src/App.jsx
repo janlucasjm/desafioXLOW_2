@@ -8,7 +8,7 @@ function App() {
       link: 'https://pixabay.com/pt/photos/lago-montanhas-névoa-panorama-7624330/'
     },
     {
-      url: 'https://pixabay.com/get/gfcba708c2c64e5eb7bd23652416c5b61fc67a5fe685160ddd824200653ca28b2f6977cbe49a06177293a4ff0008b19af.jpg',
+      url: 'https://pixabay.com/get/gaf1cc02fc441c0871a13a8182ba8f5ea8e4cb01c5194a7a12e9543b2749d798f1cc763bb8458d5bfb1bcb864a0ef5fa4.jpg',
       alt: 'Foto de uma floresta',
       link: 'https://pixabay.com/pt/photos/floresta-arvores-raios-de-sol-1072828/'
     },
